@@ -14,4 +14,6 @@ state it is in is something I am satisfied with for the moment, but would never 
 are like me and forget your passwords as often as I do, this could be very useful in keeping track of everything. With a simple 
 decryption step, this can be easily applied for any use, but I will leave that up to you to develop. 
 
+Thank you,
 
+David Apple
